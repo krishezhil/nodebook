@@ -1,6 +1,6 @@
 {
     "author": "ezhil krishnan",
-    "name": "krishezhil",
+    "name": "krish_censorify",
     "version": "0.0.1",
     "main": "censortext",
     "dependencies": {
@@ -9,7 +9,7 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/krishezhil/nodebook"
-    },
+        },
     "keywords": ["censor","ezhil","words"],
     "engines": {
         "node":"*"
